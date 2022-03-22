@@ -1,1 +1,1 @@
-# rate-this-airbnb
+# Rate this Airbnb
