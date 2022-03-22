@@ -1,1 +1,2 @@
 # Rate this Airbnb
+The topic of this project is Airbnb listings located throughout the Boston area. We are looking at listings in the Boston area for the sake of keeping this project in a doable scale. The problem we would like to tackle in this topic is to find a better metric for determining the best Airbnb listings a user should stay at. We as a group want to learn the average ratings users give these listings and if there is any relationship as to why these listings are more highly rated.
